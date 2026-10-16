@@ -1,0 +1,6 @@
+streamlit
+akshare
+pymupdf
+openai
+python-dotenv
+pandas
